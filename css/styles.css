@@ -9,11 +9,20 @@
 
     a { text-decoration: none; }
 
+    .container {
+        max-width:1128px;
+        padding-left:156px;
+        padding-right:156px;
+        margin-left:
+        margin-right:
+       }
+
+
    /*---HEADER---*/
    .header {
         justify-content: space-between;
         flex-shrink: 0;
-    }
+    } 
 
    .header-logo {
        font-family: "Raleway", sans-serif;
