@@ -54,15 +54,16 @@
      text-transform: uppercase;
      color: #4D5AE5;
      text-transform: uppercase;
+     margin-right: 76px;
 
  }
 
- .header-container {
+ /*.header-container {
      padding-top: 24px;
      padding-bottom: 24px;
      margin-right: 76px;
      display: flex;
- }
+ }*/
 
  .logo-accent {
      color: #2E2F42;
@@ -90,7 +91,6 @@
      line-height: 1.5;
      letter-spacing: 0.02em;
      color: #2E2F42;
-
      gap: 40px;
      padding-top: 24px;
      padding-bottom: 24px;
