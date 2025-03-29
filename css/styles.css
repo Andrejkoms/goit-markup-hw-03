@@ -58,12 +58,12 @@
 
  }
 
- /*.header-container {
+ .header-container {
      padding-top: 24px;
      padding-bottom: 24px;
      margin-right: 76px;
      display: flex;
- }*/
+ }
 
  .logo-accent {
      color: #2E2F42;
@@ -81,6 +81,7 @@
      letter-spacing: 0.02em;
      color: #2e2f42;
      margin-right: 40px;
+
  }
 
 
@@ -200,7 +201,7 @@
  }
 
  .features-item {
-     calc: ((100% - 72px) / 4));
+     width: calc((100% - 72px) / 4);
  }
 
  .features-title {
@@ -238,14 +239,19 @@
      margin-bottom: 72px;
  }
 
- .gallery-list {}
-
- .gellery-item {
-     background-color: #FFFFFF;
+ .gallery-list {
      display: flex;
      gap: 24px;
      flex-basis: calc (100% - 72px) / 4);
      border-bottom-left-radius: 4px;
+ }
+
+ .gellery-item {
+     background-color: #FFFFFF;
+
+
+
+
  }
 
  .container-gellery {
