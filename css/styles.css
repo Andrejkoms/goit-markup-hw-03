@@ -247,6 +247,7 @@
          background-color: #FFFFFF;
          flex-basis: calc (100% - 72px) / 4);
          border-radius: 0px 0px 4px 4px;
+         border-top-left-radius: 0px;
      }
 
 
@@ -301,7 +302,6 @@
      flex-wrap: wrap;
      column-gap: 24px;
      row-gap: 48px;
-     width: calc((100% - 48px) / 3);
      border-radius: 0px 0px 4px 4px;
  }
 
