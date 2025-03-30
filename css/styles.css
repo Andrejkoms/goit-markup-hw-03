@@ -302,6 +302,7 @@
      column-gap: 24px;
      row-gap: 48px;
      width: calc((100% - 48px) / 3);
+     border-radius: 0px 0px 4px 4px;
  }
 
  .portfolio-neme {
@@ -355,6 +356,10 @@
 
  .footer-logo-accent {
      color: #F4F4FD;
+ }
+
+ .container-footer {
+     display: inline-block;
  }
 
  .footer-text {
