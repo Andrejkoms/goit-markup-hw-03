@@ -373,12 +373,13 @@
      width: 1158px;
      margin: 0 auto;
      padding: 0 15px;
-     display: inline-block;
+
  }
 
  .footer-text {
      font-size: 16px;
      color: #F4F4FD;
      letter-spacing: 0.02em;
-     line-height: 1.5
+     line-height: 1.5;
+     display: inline-block;
  }
