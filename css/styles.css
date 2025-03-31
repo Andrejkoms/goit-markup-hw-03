@@ -361,7 +361,7 @@
      text-transform: uppercase;
      color: #4D5AE5;
      text-decoration: none;
-     display: inline-block;
+
      margin-bottom: 16px;
  }
 
@@ -373,6 +373,7 @@
      width: 1158px;
      margin: 0 auto;
      padding: 0 15px;
+     display: inline-block;
  }
 
  .footer-text {
