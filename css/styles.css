@@ -51,6 +51,10 @@
      margin: 0 auto;
  }
 
+ * {
+     box-sizing: border-box;
+ }
+
  /*---HEADER---*/
  .header {
      border-bottom: 1px solid #e7e9fc;
@@ -361,11 +365,12 @@
      text-transform: uppercase;
      color: #4D5AE5;
      text-decoration: none;
+ }
+
+ .footer-link {
      display: inline-block;
      margin-bottom: 16px;
  }
-
-
 
 
  .footer-logo-accent {
