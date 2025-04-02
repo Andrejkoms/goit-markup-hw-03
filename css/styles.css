@@ -28,10 +28,6 @@
      display: flex;
  }
 
- .container: last-child {
-     display: inline-block;
- }
-
  .visually-hidden {
      position: absolute;
      width: 1px;
@@ -77,12 +73,6 @@
 
  }
 
- .header-container {
-     padding-top: 24px;
-     padding-bottom: 24px;
-     margin-right: 76px;
-     display: flex;
- }
 
  .logo-accent {
      color: #2E2F42;
