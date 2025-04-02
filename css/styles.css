@@ -110,6 +110,7 @@
      gap: 40px;
      padding-top: 24px;
      padding-bottom: 24px;
+     display: flex;
  }
 
  .header-menu:hover,
@@ -118,8 +119,8 @@
  }
 
  .header-address {
-     font-sdisplay: flex;
-     tyle: normal
+     display: flex;
+     font-style: normal;
  }
 
  .header-list {
@@ -262,7 +263,7 @@
 
  .gellery-item {
      background-color: #FFFFFF;
-     flex-basis: calc (100% - 72px) / 4);
+     flex-basis: calc ((100% - 72px) / 4);
      border-radius: 0px 0px 4px 4px;
  }
 
@@ -318,7 +319,7 @@
      border-radius: 0px 0px 4px 4px;
  }
 
- .portfolio-neme {
+ .portfolio-name {
      font-weight: 500;
      font-size: 20px;
      line-height: 1.2;
