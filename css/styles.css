@@ -29,7 +29,7 @@
  }
 
  .container: last-child {
-     display: 0;
+     display: inline-block;
  }
 
  .visually-hidden {
