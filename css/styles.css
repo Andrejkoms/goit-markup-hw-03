@@ -361,14 +361,11 @@
      letter-spacing: 0.03em;
      text-transform: uppercase;
      color: #4D5AE5;
-
-
- }
-
- .footer .container {
      display: inline-block;
      margin-bottom: 16px;
+
  }
+
 
  .footer-logo:hover,
  .footer-logo:focus {
