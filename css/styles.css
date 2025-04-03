@@ -356,6 +356,8 @@
      letter-spacing: 0.03em;
      text-transform: uppercase;
      color: #4D5AE5;
+     display: inline-block;
+     margin-bottom: 16px;
    
  }
 
