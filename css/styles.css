@@ -21,11 +21,18 @@
  }
 
  .container {
-     width: 1158px;
+     max-width: 1158px;
      padding-left: 15px;
      padding-right: 15px;
      margin: 0 auto;
+   
+ }
+
+ .box-flex {
      display: flex;
+     justify-content: space-between;
+     align-items: center;
+
  }
 
  .visually-hidden {
@@ -369,8 +376,6 @@
 
  .footer-logo-accent {
      color: #F4F4FD;
-     display: inline-block;
-     margin-bottom: 16px;
  }
 
  .footer-text {
